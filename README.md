@@ -23,3 +23,5 @@ python yolov8n-pose-binding-train.py
 cd my_test/ultralytics
 python yolov8n-pose-binding-val.py
 ```
+**Dataset Directory:**
+`my_test/ultralytics/ultralytics/data/binding_keypoint_data`
